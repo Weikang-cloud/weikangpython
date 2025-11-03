@@ -1,2 +1,2 @@
 # weikangpython
-For python homework
+Current folder is for python homework
